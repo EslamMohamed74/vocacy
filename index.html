@@ -4,52 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>vocacy</title>
-    <style>
-      .full-page-loader {
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-        justify-content: center;
-        position: absolute;
-        top: 0;
-        right: 0;
-        left: 0;
-        bottom: 0;
-      }
-
-      .full-page-loader > img {
-        animation: 1.8s infinite heartbeat;
-      }
-
-      @keyframes heartbeat {
-        0% {
-          transform: scale(1);
-        }
-        25% {
-          transform: scale(1.05);
-        }
-        50% {
-          transform: scale(1);
-        }
-        75% {
-          transform: scale(1.05);
-        }
-        100% {
-          transform: scale(1);
-        }
-      }
-    </style>
   </head>
   <body>
-    <div id="root">
-      <div class="full-page-loader">
-        <img
-          width="200"
-          src="./src/assets/images/Logo.svg"
-          alt="Vogo logo"
-        />
-      </div>
-    </div>
+    <div id="root">Initializing the awesome.</div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
