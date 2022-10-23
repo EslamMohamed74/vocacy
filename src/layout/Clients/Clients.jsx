@@ -5,11 +5,11 @@ import { FreeMode, Autoplay } from "swiper";
 import "swiper/css";
 import "swiper/css/free-mode";
 import "./Clients.scss";
-import Logo1 from "../../assets/images/Clients/Logo1.png";
-import Logo2 from "../../assets/images/Clients/Logo2.png";
-import Logo3 from "../../assets/images/Clients/Logo3.png";
-import Logo4 from "../../assets/images/Clients/Logo4.png";
-import Logo5 from "../../assets/images/Clients/Logo5.png";
+import Logo1 from "../../assets/images/Clients/Logo1.webp";
+import Logo2 from "../../assets/images/Clients/Logo2.webp";
+import Logo3 from "../../assets/images/Clients/Logo3.webp";
+import Logo4 from "../../assets/images/Clients/Logo4.webp";
+import Logo5 from "../../assets/images/Clients/Logo5.webp";
 
 const Clients = () => {
   const images = [Logo1, Logo2, Logo3, Logo4, Logo5];

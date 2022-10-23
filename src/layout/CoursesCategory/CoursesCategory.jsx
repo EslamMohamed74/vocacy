@@ -8,14 +8,14 @@ import "swiper/css/navigation";
 import "./CoursesCategory.scss";
 import PrimaryButton from "../../components/ui/PrimaryButton/PrimaryButton";
 import MainCard from "../../components/ui/MainCard/MainCard";
-import AdministrativeSkills from "../../assets/images/CoursesCategory/AdministrativeSkills.png";
-import CareerDevelopment from "../../assets/images/CoursesCategory/CareerDevelopment.png";
-import HumanResources from "../../assets/images/CoursesCategory/HumanResources.png";
-import PersonalDevelopment from "../../assets/images/CoursesCategory/PersonalDevelopment.png";
-import SalesandMarketing from "../../assets/images/CoursesCategory/SalesandMarketing.png";
-import SupervisorsManagers from "../../assets/images/CoursesCategory/SupervisorsManagers.png";
-import WorkplaceEssentials from "../../assets/images/CoursesCategory/WorkplaceEssentials.png";
-import MicrosoftOffice from "../../assets/images/CoursesCategory/MicrosoftOffice.png";
+import AdministrativeSkills from "../../assets/images/CoursesCategory/AdministrativeSkills.webp";
+import CareerDevelopment from "../../assets/images/CoursesCategory/CareerDevelopment.webp";
+import HumanResources from "../../assets/images/CoursesCategory/HumanResources.webp";
+import PersonalDevelopment from "../../assets/images/CoursesCategory/PersonalDevelopment.webp";
+import SalesandMarketing from "../../assets/images/CoursesCategory/SalesandMarketing.webp";
+import SupervisorsManagers from "../../assets/images/CoursesCategory/SupervisorsManagers.webp";
+import WorkplaceEssentials from "../../assets/images/CoursesCategory/WorkplaceEssentials.webp";
+import MicrosoftOffice from "../../assets/images/CoursesCategory/MicrosoftOffice.webp";
 
 const CoursesCategory = () => {
   const cards = [

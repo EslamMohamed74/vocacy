@@ -6,7 +6,7 @@ import FreeDemo from "../../components/FreeDemo/FreeDemo";
 import Solutions from "../../components/Solutions/Solutions";
 import Logo from "../../assets/images/Logo.svg";
 import Search from "../../assets/images/Search.svg";
-import SearchWhite from "../../assets/images/Searchwhite.png";
+import SearchWhite from "../../assets/images/Searchwhite.webp";
 import Sidebar from "../Sidebar/Sidebar";
 
 function MainNavbar() {

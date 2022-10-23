@@ -2,10 +2,10 @@ import React from "react";
 import {  Row, Col } from "react-bootstrap";
 import "./Solutions.scss";
 import MainCard from "../ui/MainCard/MainCard";
-import VRSimulation1 from "../../assets/images/Intro/VRSimulation1.png";
-import Gamified from "../../assets/images/Intro/Gamified.png";
-import HybridLearning from "../../assets/images/Intro/HybridLearning.png";
-import Mentor from "../../assets/images/Intro/Mentor.png";
+import VRSimulation1 from "../../assets/images/Intro/VRSimulation1.webp";
+import Gamified from "../../assets/images/Intro/Gamified.webp";
+import HybridLearning from "../../assets/images/Intro/HybridLearning.webp";
+import Mentor from "../../assets/images/Intro/Mentor.webp";
 
 function Solutions() {
   const cards = [

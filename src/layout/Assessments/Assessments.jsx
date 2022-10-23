@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import "./Assessments.scss";
 import PrimaryButton from "../../components/ui/PrimaryButton/PrimaryButton";
-import AssessmentsImg from "../../assets/images/Assessments/Assessments.png";
+import AssessmentsImg from "../../assets/images/Assessments/Assessments.webp";
 
 const Assessments = () => {
   return (

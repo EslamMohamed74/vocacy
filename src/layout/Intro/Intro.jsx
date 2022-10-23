@@ -3,11 +3,11 @@ import { Container, Row, Col } from "react-bootstrap";
 import "./Intro.scss";
 import MainCard from "../../components/ui/MainCard/MainCard";
 import PrimaryButton from "../../components/ui/PrimaryButton/PrimaryButton";
-import VRGlasses from "../../assets/images/Intro/VRGlasses.png";
-import VRSimulation1 from "../../assets/images/Intro/VRSimulation1.png";
-import Gamified from "../../assets/images/Intro/Gamified.png";
-import HybridLearning from "../../assets/images/Intro/HybridLearning.png";
-import Mentor from "../../assets/images/Intro/Mentor.png";
+import VRGlasses from "../../assets/images/Intro/VRGlasses.webp";
+import VRSimulation1 from "../../assets/images/Intro/VRSimulation1.webp";
+import Gamified from "../../assets/images/Intro/Gamified.webp";
+import HybridLearning from "../../assets/images/Intro/HybridLearning.webp";
+import Mentor from "../../assets/images/Intro/Mentor.webp";
 
 const Intro = () => {
   const cards = [

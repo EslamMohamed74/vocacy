@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./PrimaryButton.scss";
 import PlayIcon from "../../../assets/images/PlayIcon.svg";
-import PlayIconWhite from "../../../assets/images/playiconWhite.png";
+import PlayIconWhite from "../../../assets/images/playiconWhite.webp";
 
 function primaryButton({ text, video = false }) {
   const [hover, setHover] = useState(false);

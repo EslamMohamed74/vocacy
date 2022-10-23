@@ -5,10 +5,10 @@ import { FreeMode, Autoplay } from "swiper";
 import "swiper/css";
 import "swiper/css/free-mode";
 import "./Partners.scss";
-import Logo1 from "../../assets/images/Partners/Logo1.png";
-import Logo2 from "../../assets/images/Partners/Logo2.png";
-import Logo3 from "../../assets/images/Partners/Logo3.png";
-import Logo4 from "../../assets/images/Partners/Logo4.png";
+import Logo1 from "../../assets/images/Partners/Logo1.webp";
+import Logo2 from "../../assets/images/Partners/Logo2.webp";
+import Logo3 from "../../assets/images/Partners/Logo3.webp";
+import Logo4 from "../../assets/images/Partners/Logo4.webp";
 
 const Partners = () => {
   const images = [Logo1, Logo2, Logo3, Logo4];

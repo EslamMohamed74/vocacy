@@ -3,9 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import "./LearningCenter.scss";
 import PrimaryButton from "../../components/ui/PrimaryButton/PrimaryButton";
 import MainCard from "../../components/ui/MainCard/MainCard";
-import l1 from "../../assets/images/LearningCenter/l1.png";
-import l2 from "../../assets/images/LearningCenter/l2.png";
-import l3 from "../../assets/images/LearningCenter/l3.png";
+import l1 from "../../assets/images/LearningCenter/l1.webp";
+import l2 from "../../assets/images/LearningCenter/l2.webp";
+import l3 from "../../assets/images/LearningCenter/l3.webp";
 
 const LearningCenter = () => {
   const cards = [

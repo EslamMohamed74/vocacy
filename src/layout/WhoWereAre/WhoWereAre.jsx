@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import "./WhoWereAre.scss";
 import PrimaryButton from "../../components/ui/PrimaryButton/PrimaryButton";
-import Image from "../../assets/images/WhoWereAre/Image.png";
+import Image from "../../assets/images/WhoWereAre/Image.webp";
 
 const WhoWereAre = () => {
   return (

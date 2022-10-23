@@ -2,9 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import "./FreeDemo.scss";
 import MainCard from "../ui/MainCard/MainCard";
-import Image1 from "../../assets/images/FreeDemo/Image1.png";
-import Image2 from "../../assets/images/FreeDemo/Image2.png";
-import Image3 from "../../assets/images/FreeDemo/Image3.png";
+import Image1 from "../../assets/images/FreeDemo/Image1.webp";
+import Image2 from "../../assets/images/FreeDemo/Image2.webp";
+import Image3 from "../../assets/images/FreeDemo/Image3.webp";
 
 function FreeDemo() {
   const cards = [
