@@ -3,7 +3,7 @@ import { Container, Row, Col, Form } from "react-bootstrap";
 import { IoClose } from "react-icons/io5";
 import "./SearchBar.scss";
 import Search from "../../assets/images/Search.svg";
-import SearchWhite from "../../assets/images/SearchWhite.png";
+import SearchWhite from "../../assets/images/Searchwhite.png";
 
 function SearchBar({ show, closeSearch }) {
   const [hover, setHover] = useState(false);

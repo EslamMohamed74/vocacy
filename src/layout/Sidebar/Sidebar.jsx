@@ -4,7 +4,7 @@ import { IoClose } from "react-icons/io5";
 import "./Sidebar.scss";
 import Logo from "../../assets/images/Logo.svg";
 import Search from "../../assets/images/Search.svg";
-import SearchWhite from "../../assets/images/SearchWhite.png";
+import SearchWhite from "../../assets/images/Searchwhite.png";
 
 const Sidebar = ({ show, closeSideNavbar, openSearch }) => {
   const [hover, setHover] = useState(false);
